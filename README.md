@@ -12,9 +12,7 @@ A simple and clean **Cryptocurrency Price Tracker** built using **HTML**, **CSS*
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view live](https://yashcode1602.github.io/crypto-price/)
-
-> Replace `yourusername` with your GitHub username
+🔗 [Click here to view live](https://github.com/yashcode1602/crypto-price)
 
 ---
 
@@ -59,6 +57,5 @@ This project is part of my mini project collection to practice real-time API int
 
 👨‍💻 Author
 Yash Patel
-🔗 GitHub
 
 
